@@ -12,7 +12,7 @@
  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"> 
  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> 
  <img src="https://img.shields.io/badge/C-512BD4?style=for-the-badge&logo=C&logoColor=white"> 
- <img src="https://img.shields.io/badge/C#-A8B9CC?style=for-the-badge&logo=C#&logoColor=white"> 
+ <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> 
  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"> 
  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> 
  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white"> 
@@ -29,19 +29,20 @@
  <img src="https://img.shields.io/badge/MS onenote-7719AA?style=for-the-badge&logo=microsoftonenote&logoColor=white"> 
  <img src="https://img.shields.io/badge/MS Access-A4373A?style=for-the-badge&logo=Microsoft Access&logoColor=white"> 
  <img src="https://img.shields.io/badge/MS sqlserver-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"> 
- <img src="https://img.shields.io/badge/devexpress-#FF7200?style=for-the-badge&logo=devexpress&logoColor=white"> 
- <img src="https://img.shields.io/badge/visualbasic-#512BD4?style=for-the-badge&logo=visualbasic&logoColor=white"> 
- <img src="https://img.shields.io/badge/visualstudio-#5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"> 
- <img src="https://img.shields.io/badge/visualstudiocode-#007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> 
- <img src="https://img.shields.io/badge/virtualbox-#183A61?style=for-the-badge&logo=virtualbox&logoColor=white"> 
- <img src="https://img.shields.io/badge/zendesk-#03363D?style=for-the-badge&logo=zendesk&logoColor=white"> 
- <img src="https://img.shields.io/badge/snowflake-#29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"> 
- <img src="https://img.shields.io/badge/oracle-#F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
- <img src="https://img.shields.io/badge/informatica-#FF4D00?style=for-the-badge&logo=informatica&logoColor=white"> 
- <img src="https://img.shields.io/badge/python-#3776AB?style=for-the-badge&logo=python&logoColor=white"> 
- <img src="https://img.shields.io/badge/pytorch-#EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> 
- <img src="https://img.shields.io/badge/dbeaver-#382923?style=for-the-badge&logo=dbeaver&logoColor=white"> 
- <img src="https://img.shields.io/badge/github-#181717?style=for-the-badge&logo=github&logoColor=white"> 
+ <img src="https://img.shields.io/badge/devexpress-FF7200?style=for-the-badge&logo=devexpress&logoColor=white"> 
+ <img src="https://img.shields.io/badge/visualbasic-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white"> 
+ <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"> 
+ <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> 
+ <img src="https://img.shields.io/badge/virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"> 
+ <img src="https://img.shields.io/badge/zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white"> 
+ <img src="https://img.shields.io/badge/snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"> 
+ <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+ <img src="https://img.shields.io/badge/informatica-FF4D00?style=for-the-badge&logo=informatica&logoColor=white"> 
+ <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+ <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> 
+ <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"> 
+ <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
+
 
 
 
