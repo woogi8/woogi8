@@ -17,10 +17,7 @@
 </p>
 
 <h3 align="left">Cloud</h3>
- <img src="https://img.shields.io/badge/aws-232F3E?style=plastic&logo=amazonaws&logoColor=white"> 
- 
- <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=plastic&logo=AWS Lambda&logoColor=white"> 
- <img src="https://img.shields.io/badge/Amazon S3-569A31?style=plastic&logo=Amazon S3&logoColor=white"> 
+<img src="https://img.shields.io/badge/aws-232F3E?style=plastic&logo=amazonaws&logoColor=white"><img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=plastic&logo=AWS Lambda&logoColor=white"><img src="https://img.shields.io/badge/Amazon S3-569A31?style=plastic&logo=Amazon S3&logoColor=white"> 
  
 
   <h3 align="left">Server</h3>
