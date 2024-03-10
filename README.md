@@ -1,5 +1,5 @@
 <h3 align="left">Hi 👋, I'm James Yoon</h3>
-<h3 align="left">A passionate frontend developer from Korea</h3>
+<h3 align="left">A passionate fullstakck developer, IT System Architecture, IT Team Manager from Korea</h3>
 
 - 🔭 I’m currently working on **aws serverless nMES**
 
