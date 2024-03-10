@@ -136,7 +136,8 @@
  <img src="https://img.shields.io/badge/SONY-FFFFFF?style=plastic&logo=sony&logoColor=white"> 
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=woogi8&show_icons=true&locale=en&layout=compact" alt="woogi8" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=woogi8&show_icons=true&locale=en" alt="woogi8" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=woogi8&" alt="woogi8" />
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=woogi8&show_icons=true&locale=en" alt="woogi8" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=woogi8&" alt="woogi8" />
+</p>
 
