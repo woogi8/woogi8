@@ -20,6 +20,8 @@
 </p>
 </p>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
  <h3 align="left">Cloud</h3>
 <p>
 <img src="https://img.shields.io/badge/aws-232F3E?style=plastic&logo=amazonaws&logoColor=white">
@@ -130,12 +132,6 @@
  <img src="https://img.shields.io/badge/NXP-000000?style=plastic&logo=nxp&logoColor=white"> 
  <img src="https://img.shields.io/badge/SONY-FFFFFF?style=plastic&logo=sony&logoColor=white"> 
 </p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p>
- <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
- </a>p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=woogi8&show_icons=true&locale=en&layout=compact" alt="woogi8" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=woogi8&show_icons=true&locale=en" alt="woogi8" />
