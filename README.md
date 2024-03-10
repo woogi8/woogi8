@@ -6,6 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=woogi8" alt="woogi8" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+ <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/#4FC80D?style=flat-square&logo=vue.js&logoColor=white"/></a>
+
 
 - 🔭 I’m currently working on **aws serverless nMES**
 
