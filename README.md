@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **python, AI**
 
-- 📝 I regularly write articles on [woogi.net](woogi.net)
+- 📝 I regularly write hobby articles on [woogi.net](woogi.net)
 
 - 📫 How to reach me **woogi8@gmail.com**
 
