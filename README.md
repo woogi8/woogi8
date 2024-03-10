@@ -4,7 +4,7 @@
 </p>
 
 
-<h3 align="left">Hi 👋, I'm James Yoon</h3>
+<h3 align="left">Hi 👋, I'm James Yoon (ST Yoon) </h3>
 <h3 align="left">A passionate fullstakck developer, IT System Architecture, IT Team Manager from Korea</h3>
 
 - 🔭 I’m currently working on **aws serverless nMES**
@@ -14,6 +14,8 @@
 - 📝 I regularly write articles on [woogi.net](woogi.net)
 
 - 📫 How to reach me **woogi8@gmail.com**
+
+- 🤖 My Hobby is 📷, 🧱(LEGO), 🚴, 🚡
 
 
 <h3 align="left">Connect with me:</h3>
