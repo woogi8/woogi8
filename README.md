@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **woogi8@gmail.com**
 
-- 🤖 My Hobby is 📷, 🧱(LEGO), 🚴, 🚡
+- 🤖 My Hobby is 📷(Camera), 🧱(LEGO), 🚴(bycycle), 🚡(Travel)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=plastic&logo=vuedotjs&logoColor=white"> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white"> 
 <img src="https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white"> 
-<img src="https://img.shields.io/badge/csharp-512BD4?style=plastic&logo=csharp&logoColor=white"> 
+<img src="https://img.shields.io/badge/c#-512BD4?style=plastic&logo=csharp&logoColor=white"> 
  <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"> 
  <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"> 
   <img src="https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=.NET&logoColor=white"> 
