@@ -53,6 +53,7 @@
  <img src="https://img.shields.io/badge/MS visual Studio Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white">  
  <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white">  
  <img src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=pycharm&logoColor=white">  
+ <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white"> 
 </p>
  
  
@@ -75,11 +76,12 @@
 <img src="https://img.shields.io/badge/tableau-E97627?style=plastic&logo=tableau&logoColor=white"> 
 </p>
  
-<h3 align="left">AI/ML/Data</h3> 
+<h3 align="left">AI/ML</h3> 
 <p>
- <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white"> 
  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white"> 
- </p>
+ <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white"> 
+ <img src="https://img.shields.io/badge/Scikit-F7931E?style=plastic&logo=scikitlearn&logoColor=white"> 
+</p>
 
 <h3 align="left">ETL</h3> 
 <p>
