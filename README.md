@@ -23,7 +23,7 @@
  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"> 
  <img src="https://img.shields.io/badge/microsoftteams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white"> 
  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
- <img src="https://img.shields.io/badge/microsoftoutlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"> 
+ <img src="https://img.shields.io/badge/ms outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"> 
  <img src="https://img.shields.io/badge/microsoftpowerpoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"> 
  <img src="https://img.shields.io/badge/microsoftsharepoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white"> 
  <img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"> 
