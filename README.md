@@ -7,7 +7,32 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+ <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"> 
+ <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=for-the-badge&logo=AWS Lambda&logoColor=white"> 
+ <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"> 
+ <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> 
+ <img src="https://img.shields.io/badge/C-512BD4?style=for-the-badge&logo=C&logoColor=white"> 
+ <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> 
+ <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"> 
+ <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> 
+ <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white"> 
+ <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> 
+ <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"> 
+ <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"> 
+ <img src="https://img.shields.io/badge/microsoftteams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white"> 
+ <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+ <img src="https://img.shields.io/badge/microsoftoutlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"> 
+ <img src="https://img.shields.io/badge/microsoftpowerpoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"> 
+ <img src="https://img.shields.io/badge/microsoftsharepoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white"> 
+ <img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"> 
+ <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> 
+ <img src="https://img.shields.io/badge/microsoftonenote-7719AA?style=for-the-badge&logo=microsoftonenote&logoColor=white"> 
+ <img src="https://img.shields.io/badge/Microsoft Access-A4373A?style=for-the-badge&logo=Microsoft Access&logoColor=white"> 
+ <img src="https://img.shields.io/badge/microsoftsqlserver-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"> 
+ <img src="https://img.shields.io/badge/devexpress-#FF7200?style=for-the-badge&logo=devexpress&logoColor=white"> 
+
 
 
 
