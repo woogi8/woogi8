@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=plastic&logo=Amazon EC2&logoColor=white"> 
 
 <h3 align="left">Languages</h3>
+<p>
  <img src="https://img.shields.io/badge/C-512BD4?style=plastic&logo=C&logoColor=white"> 
  <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"> 
  <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=white"> 
@@ -35,9 +36,10 @@
  <img src="https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=.NET&logoColor=white"> 
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white"> 
  <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=white"> 
+ </p>
  
  
-> 
+
  <img src="https://img.shields.io/badge/devexpress-FF7200?style=plastic&logo=devexpress&logoColor=white"> 
  <img src="https://img.shields.io/badge/visualbasic-512BD4?style=plastic&logo=visualbasic&logoColor=white"> 
  <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=plastic&logo=visualstudio&logoColor=white"> 
