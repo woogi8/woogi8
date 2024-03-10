@@ -146,3 +146,10 @@
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=woogi8&" alt="woogi8" />
 </p>
 
+====================================================================================================================================
+
+<p align="center">
+    <img src="https://github.com/woogi8/woogi8/workflows/README%20build/badge.svg" /> 
+    <img alt="Stars" src="https://img.shields.io/github/stars/woogi8/woogi8?style=flat-square&labelColor=343b41"/> 
+    <img alt="Forks" src="https://img.shields.io/github/forks/woogi8/woogi8?style=flat-square&labelColor=343b41"/>
+</p>
