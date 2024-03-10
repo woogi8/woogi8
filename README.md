@@ -9,6 +9,10 @@
 
 <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
 
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=Tistory&logoColor=white">
+
+
+
 
 
 - 🔭 I’m currently working on **aws serverless nMES**
