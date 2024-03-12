@@ -112,6 +112,8 @@
  <img src="https://img.shields.io/badge/mariadb-3545?style=plastic&logo=mariadb&logoColor=white"> 
  <img src="https://img.shields.io/badge/dbeaver-382923?style=plastic&logo=dbeaver&logoColor=white">
  <img src="https://img.shields.io/badge/MS Access-A4373A?style=plastic&logo=Microsoft Access&logoColor=white">     
+ <img src="https://img.shields.io/badge/MS SQL Server-CC2927?style=plastic&logo=&logoColor=white">     
+    
 </p>
 
 <h3 align="left">Work Space</h3>
