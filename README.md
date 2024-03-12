@@ -119,6 +119,7 @@
  <img src="https://img.shields.io/badge/zendesk-03363D?style=plastic&logo=zendesk&logoColor=white"> 
  <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"> 
  <img src="https://img.shields.io/badge/mermaid-FF3670?style=plastic&logo=Mermaid&logoColor=white"> 
+    <img src="https://img.shields.io/badge/MS OneNote-7719AA?style=plastic&logo=microsoftonenote&logoColor=white"> 
  <img src="https://img.shields.io/badge/MS Loop-181717?style=plastic&logo=&logoColor=white"> 
 </p>
 
