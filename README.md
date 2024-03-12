@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **woogi8@gmail.com**
 
-- 🤖 My Hobby is 📷(Camera), 🧱(LEGO), 🚴(bycycle), 🚡(Travel)
+- 🤖 I Like is 📷(Camera), 🧱(LEGO), 🚴(bycycle), 🚡(Travel)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
