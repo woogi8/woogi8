@@ -41,7 +41,7 @@
    <img src="https://img.shields.io/badge/Windows Server-262577?style=plastic&logo=&logoColor=white"> 
  </p>
  
-<h3 align="left">Languages</h3>
+<h3 align="left">Dev.Languages</h3>
 <p>
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=plastic&logo=vuedotjs&logoColor=white"> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white"> 
@@ -50,15 +50,20 @@
  <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"> 
  <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"> 
   <img src="https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=.NET&logoColor=white"> 
- <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white"> 
- <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=white"> 
-<img src="https://img.shields.io/badge/devexpress-FF7200?style=plastic&logo=devexpress&logoColor=white"> 
+    <img src="https://img.shields.io/badge/javascript-#F7DF1E?style=plastic&logo=.NET&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=white"> 
  <img src="https://img.shields.io/badge/visualbasic-512BD4?style=plastic&logo=visualbasic&logoColor=white"> 
- <img src="https://img.shields.io/badge/MS Visual Studio-5C2D91?style=plastic&logo=visualstudio&logoColor=white"> 
- <img src="https://img.shields.io/badge/MS visual Studio Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white">  
- <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white">  
- <img src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=pycharm&logoColor=white">  
  <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white"> 
+</p>
+
+<h3 align="left">Dev.Languages Tool</h3>
+<p>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white"> 
+    <img src="https://img.shields.io/badge/devexpress-FF7200?style=plastic&logo=devexpress&logoColor=white"> 
+     <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white">  
+     <img src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=pycharm&logoColor=white"> 
+     <img src="https://img.shields.io/badge/MS Visual Studio-5C2D91?style=plastic&logo=visualstudio&logoColor=white"> 
+     <img src="https://img.shields.io/badge/MS visual Studio Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white">  
 </p>
  
  
