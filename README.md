@@ -50,7 +50,7 @@
  <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"> 
  <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"> 
   <img src="https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=.NET&logoColor=white"> 
-    <img src="https://img.shields.io/badge/javascript-#F7DF1E?style=plastic&logo=.NET&logoColor=white"> 
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white"> 
   <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=white"> 
  <img src="https://img.shields.io/badge/visualbasic-512BD4?style=plastic&logo=visualbasic&logoColor=white"> 
  <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white"> 
