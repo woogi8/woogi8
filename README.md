@@ -104,7 +104,8 @@
  <img src="https://img.shields.io/badge/oracle-F80000?style=plastic&logo=oracle&logoColor=white"> 
  <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white"> 
  <img src="https://img.shields.io/badge/mariadb-3545?style=plastic&logo=mariadb&logoColor=white"> 
- <img src="https://img.shields.io/badge/dbeaver-382923?style=plastic&logo=dbeaver&logoColor=white"> 
+ <img src="https://img.shields.io/badge/dbeaver-382923?style=plastic&logo=dbeaver&logoColor=white">
+ <img src="https://img.shields.io/badge/MS Access-A4373A?style=plastic&logo=Microsoft Access&logoColor=white">     
 </p>
 
 <h3 align="left">Work Space</h3>
@@ -120,7 +121,6 @@
  <img src="https://img.shields.io/badge/MS outlook-0078D4?style=plastic&logo=microsoftoutlook&logoColor=white"> 
  <img src="https://img.shields.io/badge/MS powerpoint-B7472A?style=plastic&logo=microsoftpowerpoint&logoColor=white"> 
  <img src="https://img.shields.io/badge/MS sharepoint-0078D4?style=plastic&logo=microsoftsharepoint&logoColor=white"> 
- <img src="https://img.shields.io/badge/MS Access-A4373A?style=plastic&logo=Microsoft Access&logoColor=white"> 
  <img src="https://img.shields.io/badge/MS sqlserver-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white">
  <img src="https://img.shields.io/badge/MS onenote-7719AA?style=plastic&logo=microsoftonenote&logoColor=white"> 
 </p>
