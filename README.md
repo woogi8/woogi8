@@ -77,7 +77,7 @@
 </p>
  
  
- <h3 align="left">Virtual Machine</h3>
+ <h3 align="left">virtual machine</h3>
  <p>
   <img src="https://img.shields.io/badge/VMware-607078?style=plastic&logo=vmware&logoColor=white"> 
   <img src="https://img.shields.io/badge/virtualbox-183A61?style=plastic&logo=virtualbox&logoColor=white"> 
@@ -85,13 +85,13 @@
  
 
 
- <h3 align="left">Datalake</h3>
+ <h3 align="left">datalake</h3>
  <p>
   <img src="https://img.shields.io/badge/snowflake-29B5E8?style=plastic&logo=snowflake&logoColor=white"> 
   <img src="https://img.shields.io/badge/aws Redshift-8C4FFF?style=plastic&logo=amazonredshift&logoColor=white">
  </p>
  
-<h3 align="left">Data Analysis</h3>  
+<h3 align="left">BI(Data Analysis)</h3>  
 <p>
 <img src="https://img.shields.io/badge/tableau-E97627?style=plastic&logo=tableau&logoColor=white"> 
 </p>
@@ -102,11 +102,13 @@
  <img src="https://img.shields.io/badge/informatica-FF4D00?style=plastic&logo=informatica&logoColor=white"> 
 </p>
  
-<h3 align="left">Source</h3>
+<h3 align="left">source</h3>
 <p>
- <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white"> 
- <img src="https://img.shields.io/badge/MS Sourcesafe-181717?style=plastic&logo=&logoColor=white"> 
- <img src="https://img.shields.io/badge/SVN-181717?style=plastic&logo=&logoColor=white"> 
+    <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=jenkins&logoColor=white">
+    <img src="https://img.shields.io/badge/Gitea-609926?style=plastic&logo=gitea&logoColor=white">
+    <img src="https://img.shields.io/badge/MS Sourcesafe-181717?style=plastic&logo=&logoColor=white"> 
+    <img src="https://img.shields.io/badge/SVN-181717?style=plastic&logo=&logoColor=white"> 
 </p>
 
 <h3 align="left">DB</h3>
