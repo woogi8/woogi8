@@ -26,7 +26,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
- <h3 align="left">Cloud</h3>
+ <h3 align="left">cloud</h3>
 <p>
 <img src="https://img.shields.io/badge/aws-232F3E?style=plastic&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=plastic&logo=awslambda&logoColor=white">
@@ -78,7 +78,7 @@
  <h3 align="left">Datalake</h3>
  <p>
   <img src="https://img.shields.io/badge/snowflake-29B5E8?style=plastic&logo=snowflake&logoColor=white"> 
-  <img src="https://img.shields.io/badge/aws Redshift-8C4FFF?style=plastic&logo=Amazon Redshift&logoColor=white"> 
+  <img src="https://img.shields.io/badge/aws Redshift-8C4FFF?style=plastic&logo=amazonredshift&logoColor=white">
  </p>
  
 <h3 align="left">Data Analysis</h3>  
