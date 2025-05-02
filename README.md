@@ -54,17 +54,18 @@
  
 <h3 align="left">Dev.Languages</h3>
 <p>
-<img src="https://img.shields.io/badge/vue.js-4FC08D?style=plastic&logo=vuedotjs&logoColor=white"> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white"> 
-<img src="https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white"> 
-<img src="https://img.shields.io/badge/csharp-512BD4?style=plastic&logo=csharp&logoColor=white"> 
- <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"> 
- <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"> 
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=.NET&logoColor=white"> 
+    <img src="https://img.shields.io/badge/vue.js-4FC08D?style=plastic&logo=vuedotjs&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white"> 
+    <img src="https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white"> 
+    <img src="https://img.shields.io/badge/csharp-512BD4?style=plastic&logo=csharp&logoColor=white"> 
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"> 
+    <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"> 
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=.NET&logoColor=white"> 
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=white"> 
- <img src="https://img.shields.io/badge/visualbasic-512BD4?style=plastic&logo=visualbasic&logoColor=white"> 
- <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=white"> 
+    <img src="https://img.shields.io/badge/visualbasic-512BD4?style=plastic&logo=visualbasic&logoColor=white"> 
+    <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white">
 </p>
 
 <h3 align="left">Dev.Languages Tool</h3>
