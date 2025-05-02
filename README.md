@@ -30,10 +30,11 @@
 
  <h3 align="left">AI/ML</h3> 
 <p>
- <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white"> 
- <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white"> 
- <img src="https://img.shields.io/badge/Scikit-F7931E?style=plastic&logo=scikitlearn&logoColor=white"> 
- <img src="https://img.shields.io/badge/AWS Bedrock-FF9900?style=plastic&logo=awsbedrock&logoColor=white">
+    <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white"> 
+    <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Scikit-F7931E?style=plastic&logo=scikitlearn&logoColor=white"> 
+    <img src="https://img.shields.io/badge/AWS Bedrock-FF9900?style=plastic&logo=awsbedrock&logoColor=white">
+    <img src="https://img.shields.io/badge/Anthropic%20Sonnet%203.7-5D4B8C?style=plastic&logo=anthropic&logoColor=white">
 </p>
  
  <h3 align="left">cloud</h3>
