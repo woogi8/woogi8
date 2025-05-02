@@ -26,6 +26,16 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+ 
+
+ <h3 align="left">AI/ML</h3> 
+<p>
+ <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white"> 
+ <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white"> 
+ <img src="https://img.shields.io/badge/Scikit-F7931E?style=plastic&logo=scikitlearn&logoColor=white"> 
+ <img src="https://img.shields.io/badge/AWS Bedrock-FF9900?style=plastic&logo=awsbedrock&logoColor=white">
+</p>
+ 
  <h3 align="left">cloud</h3>
 <p>
 <img src="https://img.shields.io/badge/aws-232F3E?style=plastic&logo=amazonaws&logoColor=white">
@@ -86,12 +96,6 @@
 <img src="https://img.shields.io/badge/tableau-E97627?style=plastic&logo=tableau&logoColor=white"> 
 </p>
  
-<h3 align="left">AI/ML</h3> 
-<p>
- <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white"> 
- <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white"> 
- <img src="https://img.shields.io/badge/Scikit-F7931E?style=plastic&logo=scikitlearn&logoColor=white"> 
-</p>
 
 <h3 align="left">ETL</h3> 
 <p>
