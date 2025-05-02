@@ -35,7 +35,7 @@
 
   <h3 align="left">Server</h3>
   <p>
-   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=plastic&logo=Amazon EC2&logoColor=white"> 
+   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=plastic&logo=amazonec2&logoColor=white">
    <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=white"> 
    <img src="https://img.shields.io/badge/CentOS-262577?style=plastic&logo=centos&logoColor=white"> 
    <img src="https://img.shields.io/badge/Windows Server-262577?style=plastic&logo=&logoColor=white"> 
